@@ -14,7 +14,7 @@
  
 "pool_list" :
 [
-	{"pool_address" : "ec2-18-219-91-13.us-east-2.compute.amazonaws.com:8080", "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf", "rig_id" : "", "pool_password" : "test:brnd2003-1@yahoo.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "ec2-18-219-91-13.us-east-2.compute.amazonaws.com:80", "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf", "rig_id" : "", "pool_password" : "test:brnd2003-1@yahoo.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
