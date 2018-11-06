@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "pool.supportxmr.com:5555", "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf", "rig_id" : "c4xlarge", "pool_password" : "c4xlarge", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "gulf.moneroocean.stream:20008", "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf", "rig_id" : "c4xlarge", "pool_password" : "c4xlarge", "use_nicehash" : false, "use_tls" : true, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
@@ -48,4 +48,4 @@
  *    cryptonight_heavy
  */
 
-"currency" : "monero",
+"currency" : "cryptonight_v8",
